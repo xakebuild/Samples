@@ -1,0 +1,1 @@
+// static class App {const string Ver = "1.0.0";}

@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <!-- this package is added for hello-csc6 sample -->
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Net.Compilers" Version="2.8.0" />
+  </ItemGroup>
+</Project>
